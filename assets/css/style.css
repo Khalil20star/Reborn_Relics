@@ -1689,8 +1689,17 @@ html,body{
 .t2{
     margin-bottom: 5%;
 }
+.t3{
+    font-size: larger;
+    margin-left: 10px;
+}
+.t3 span{
+    font-weight: 700;
+}
 
-
+.t3 li{
+    padding: 10px;
+}
 
 
 
